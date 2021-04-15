@@ -1,1 +1,1 @@
-Implementation of unregularized linear regression machine learning model from scratch in python. All code is vectorized for fast computation.
+Implementation of unregularized linear regression machine learning model from scratch in python. All codes is vectorized for fast computation.
